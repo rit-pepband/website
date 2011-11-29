@@ -65,7 +65,7 @@ dd {
 blockquote {
     margin: 0; padding: 0.5em 0 0.2em 2.5em;
     border-left: 2px solid #ddd;
-    background: url(images/blockquote.gif) no-repeat 6px 5px;
+    background: url(../images/blockquote.gif) no-repeat 6px 5px;
 }
 
 
@@ -116,7 +116,7 @@ body {
     -o-border-radius: 0 0 15px #000;
     -khtml-border-radius: 0 0 15px #000;
     border-top: 1px solid #737373;
-    background: url(images/back.gif) repeat-y;
+    background: url(../images/back.gif) repeat-y;
     position: relative;   
 }
 
@@ -148,7 +148,7 @@ body {
 #right h2 {
     margin: 1.3em 0 10px; padding: 5px 0 5px 17px;
     width: 190px;
-    background: url(images/menuhover.png) repeat-x left center;
+    background: url(../images/menuhover.png) repeat-x left center;
     position: relative;
     left: -17px;
     color: #70695A;
@@ -177,8 +177,8 @@ body {
 
 /** Header **/
 header {
-    padding: 35px 0 0;
-    background: url(images/menu.png) repeat-x;
+    padding: 0px 0 0;
+    background: url(../images/menu.png) repeat-x;
     line-height: 0;
     clear: both;
 }
@@ -186,11 +186,11 @@ header {
 
 /** Navigation **/
 nav {
-    background: url(images/menu.png) repeat-x #282828;
+    background: url(../images/menu.png) repeat-x #282828;
     height: 33px;
     overflow: hidden;
     position: absolute;
-    top: 135px; left: 0;
+    top: 170px; left: 0;
     width: 100%;
 }
 
@@ -216,7 +216,7 @@ nav a {
 }
 
 nav a:hover, nav a.current {
-    background-image: url(images/menuhover.png);
+    background-image: url(../images/menuhover.png);
     color: #70695a;
     border: none;
 }
@@ -227,7 +227,7 @@ nav a:hover, nav a.current {
 footer {
     padding: 0.8em 0;
     clear: both;
-    background: url(images/menu.png) repeat-x #282828;
+    background: url(../images/menu.png) repeat-x #282828;
     color: #dbd7d1;
     text-align: center;
     text-transform: uppercase;
