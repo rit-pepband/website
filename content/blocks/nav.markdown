@@ -1,0 +1,2 @@
+- [Home](?page=home)
+- [Test Link](?page=test)

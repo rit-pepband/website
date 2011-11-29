@@ -18,8 +18,12 @@ function render($name){
     $title = ($title[0]);
     $title = str_replace("title: ", "", $title);
     
+    $nav = '';
+    $nav = Markdown(file_get_contents('content/blocks/nav.markdown'));
+    
     $source = str_replace("[content]",$content,$source);
     $source = str_replace("[title]",$title,$source);
+    $source = str_replace("[nav]",$nav,$source);
     echo $source;
 }
 ?>
