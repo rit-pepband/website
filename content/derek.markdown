@@ -1,2 +1,0 @@
-HI DEREK
-# HI DERKE

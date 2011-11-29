@@ -9,9 +9,17 @@ function render($name){
     $fammel->parse_file('layout/page.haml');
 
     $source= ($fammel->render());
-    $content = Markdown(file_get_contents('content/' . $name . '.markdown'));
-
+    
+    $raw_content = file_get_contents('content/' . $name . '.markdown');
+    $cleaned = preg_replace("/---.*---/sm", "", $raw_content, 1);
+    $content = Markdown($cleaned);
+    
+    preg_match("/title: .*/", $raw_content, $title);
+    $title = ($title[0]);
+    $title = str_replace("title: ", "", $title);
+    
     $source = str_replace("[content]",$content,$source);
+    $source = str_replace("[title]",$title,$source);
     echo $source;
 }
 ?>

@@ -1,3 +1,8 @@
+---
+title: Home
+---
+
+
 # Hi
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut erat orci. Duis at lectus est, non ultricies odio. Quisque id ligula vitae libero viverra facilisis. Nulla augue massa, rhoncus quis posuere quis, eleifend non sem. Ut purus tellus, feugiat nec blandit vitae, facilisis eu quam. Sed dapibus, lectus ac aliquet varius, dui nunc volutpat mauris, sed malesuada erat justo quis mauris. Pellentesque dignissim porta nisl, sed posuere justo auctor sed. Vestibulum tempor, justo a ornare lobortis, elit neque vestibulum nisl, at molestie tortor urna non lacus. Ut ac mi sit amet elit porttitor mollis. Donec risus ligula, imperdiet ac ultrices et, congue non sapien. Nunc id nibh eu magna varius lobortis.
 
