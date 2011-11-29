@@ -1,2 +1,2 @@
 - [Home](?page=home)
-- [Test Link](?page=test)
+- [Music](?page=music)

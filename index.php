@@ -2,7 +2,12 @@
 include '.lib/fammel/fammel.php';
 include '.lib/php_markdown/markdown.php';
 
-render($_GET['page']);
+if(!defined($_GET['page'])){
+  render($_GET['page']);
+}
+else{
+  render('home');
+}
 
 function render($name){
     $fammel = new Fammel();
