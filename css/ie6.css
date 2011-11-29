@@ -1,0 +1,12 @@
+#right {
+    padding: 0; 
+}
+
+#right h2 {
+    left: 0;
+}
+
+#right p, #right ul {
+    margin-left: 20px;
+}
+
