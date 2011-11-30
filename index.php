@@ -2,14 +2,13 @@
 include '.lib/fammel/fammel.php';
 include '.lib/php_markdown/markdown.php';
 
-if(!defined($_GET['page'])){
-  render($_GET['page']);
-}
-else{
-  render('home');
-}
+render($_GET['page']);
+
 
 function render($name){
+    if($name == ''){
+      $name = 'home';
+    }
     $fammel = new Fammel();
     $fammel->parse_file('layout/page.haml');
 
