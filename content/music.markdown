@@ -1,2 +1,56 @@
 # Music
+- 25 or 6 to 4
+- A Team
+- All Star
+- Bang the Drum - Audio
+- Battlestar Galactica
+- Birdland
+- Born To Be Wild
+- Carry On My Wayward Son
+- Come Sail Away
+- Crazy Train
+- Dance to the Music
+- Domino
+- Dragnet
+- Eye of the Tiger
+- Final Countdown
+- Freebird
+- Get Ready For This
+- Gimme Some Lovin
+- Go Fight Win
+- Gonna Fly Now
+- Hawaii Five-o
+- Hey Baby
+- Hey Song
+- Hollywood
+- I'm A Man
+- Imperial March
+- In the Midnight Hour
+- Iron Man
+- James Bond Theme
+- Jaws
+- Jeopardy
+- Land of a Thousand Dances
+- Let Me Clear My Throat
+- Livin on a Prayer
+- Louie Louie
+- Magnificent 7
+- Night on Bald Mountain
+- O Canada
+- Party Like a Rock Star
+- Peter Gunn
+- Pink Panther
+- Play that Funky Music
+- Proud Mary
+- Ship It Up to Boston
+- Smoke on the Water
+- Soul Man
+- Star Spangled Banner
+- Super Smash Bros. Melee Theme
+- Tear the Roof Off the Sucker
+- Tequila
+- Vehicle
+- Yeah
+- You Can Call Me Al
+
 The sheet music is available [here](http://pepband.rh.rit.edu/music).
