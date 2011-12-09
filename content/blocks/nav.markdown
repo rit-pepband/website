@@ -1,2 +1,2 @@
-- [Home](?page=home)
-- [Music](?page=music)
+- [Home](/)
+- [Music](/music)
