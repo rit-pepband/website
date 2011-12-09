@@ -1,12 +1,14 @@
 !!! 5
 %html
   %head
-    %link{:rel => "stylesheet" , :type => "text/css", :href => "css/style.css"}  
+    %link{:rel => "stylesheet" , :type => "text/css", :href => "css/style.css"} 
+    /[if IE]  
+      %link{:rel => "stylesheet" , :type => "text/css", :href => "css/ie.css"} 
     %title 
       [title] | RIT Pep Band
   %body
     %header
-      %img{:src => "images/logo.png", :alt => "Home"}      
+      %img{:src => "images/logo.png", :alt => "Home"}     
     #content
       [content]    
     #right
