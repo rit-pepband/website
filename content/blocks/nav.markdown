@@ -1,2 +1,2 @@
-- [Home](/)
-- [Music](/music)
+- [Home](./)
+- [Music](./music)
