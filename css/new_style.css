@@ -286,3 +286,8 @@ li .active{
 table{
   width:100%;
 }
+
+.selected {
+  background: url(../images/menuhover.png);
+  color: black;
+}
