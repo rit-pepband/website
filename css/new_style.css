@@ -104,7 +104,7 @@ blockquote {
 
 /** Main layout **/
 html {
-    background: url('background.jpg') no-repeat;
+    background: url('../images/background.jpg') no-repeat;
     background-position: 50% 0;
     background-attachment:fixed;
 
@@ -126,7 +126,7 @@ body {
     -o-border-radius: 0 0 15px #000;
     -khtml-border-radius: 0 0 15px #000;
     border-top: 1px solid #737373;
-    background: url(back.gif) repeat-y;
+    background: url(../images/back.gif) repeat-y;
     position: relative;   
 }
 
