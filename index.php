@@ -25,15 +25,14 @@ function render($name){
     $nav = '';
     $nav = Markdown(file_get_contents('content/blocks/nav.markdown'));
     
-	if ($name == 'home'){
-		$nav = str_replace('href="/"', 'href="/" class="selected"', $nav);
-	}
-	else {
-		$nav = str_replace('href="/' . $name . '"', 'href="/' . name . '" class="selected"', $nav);
-		
-	}
+    if ($name == 'home'){
+        $nav = str_replace('href="/"', 'href="/" class="selected"', $nav);
+    }
+    else {
+        $nav = str_replace('href="/' . $name . '"', 'href="/' . $name . '" class="selected"', $nav);
+    }
 
-	$right = '';
+    $right = '';
     $right = Markdown(file_get_contents('content/blocks/right.markdown'));
     
     
