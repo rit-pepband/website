@@ -183,9 +183,6 @@ body {
 }
 
 
-
-
-
 /** header **/
 header {
     background-color:black;
@@ -234,7 +231,6 @@ nav a:hover, nav a.current {
     color: #70695a;
     border: none;
 }
-
 
 
 /** footer **/
