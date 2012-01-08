@@ -14,6 +14,10 @@ function render($name){
 
     $source= ($fammel->render());
     
+    if(! file_exists('content/' . $name . '.markdown')) {
+      header("HTTP/1.0 404 Not Found", true, 404); //Return a 404
+      return;
+    }
     $raw_content = file_get_contents('content/' . $name . '.markdown');
     $cleaned = preg_replace("/---.*---/sm", "", $raw_content, 1);
     $content = Markdown($cleaned);
