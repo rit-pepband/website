@@ -1,2 +1,3 @@
 - [Home](./)
 - [Music](./music)
+- [E-Board](./eboard)
