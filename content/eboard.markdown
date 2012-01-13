@@ -28,14 +28,14 @@ Jimmy McNatt is a rocker turned Pep Band man. Jimmy not only can jam on guitar a
 guitar (and not just the rock band ones), but he's the pep band's personal epic sax man, playing both
 tenor and alto saxophone, and even clarinet. He will be leading the band with an iron fist, and an iPad,
 which goes so well with his stylish conductor hat! But yes, an iron fist - he has been dabbling in artificial
-limbs and actually works for Stark Industries and helps Tony Stark’s with his Iron Man suit. Give him
+limbs and actually works for Stark Industries and helps Tony Stark's with his Iron Man suit. Give him
 some good music and some technology to play with, and he'll make every Pep Band event an exciting
-one by blasting through walls (and the ice rink glass) with Stark’s latest invention.
+one by blasting through walls (and the ice rink glass) with Stark's latest invention.
 When not with the best band in the land, Jimmy tends to live where he works in the GCCIS
 honors lab, also known as Girls Cannot Come In-Side. He technically lives in Pep Band House, but
 like any good computer nerd, Jimmy knows home is where the technology is, as well as a couch and
 Honors stocked refrigerators. Here is where Jimmy conducts his work secretly (obviously not so secretly
-anymore) on Stark’s trinkets and machines. It is rumored that Jimmy stashed the Iron Man prototype
+anymore) on Stark's trinkets and machines. It is rumored that Jimmy stashed the Iron Man prototype
 somewhere in GCCIS, although he denies all accusations of this.
 
 ***
@@ -51,7 +51,7 @@ half his size but his volume is louder than all the other woodwinds combined. Ma
 where it is said he worked for The Wizard creating video games. Through these video games, the
 munchkins bop witches on the head with houses, though this is yet to be proven in full. There is currently
 a lack of evidence of a yellow brick road, lollipops, twisters or falling houses. However, there have been
-many Dunkin’ Donut boxes in the trash found by the pep band investigators. The investigation is still
+many Dunkin' Donut boxes in the trash found by the pep band investigators. The investigation is still
 underway.
 Upon graduation, Matt plans to become a superhero- Quailman. He will watch over RIT,
 protecting it from all evildoers, more specifically falling houses and witches with green faces. He will then
@@ -71,8 +71,8 @@ Instrument: Tenor Saxophone
 Hometown: Pine Grove, PA  
   
 Kelly is a unique person among us in more ways than her magical personality.
-She was rejected from Hogwarts, because they said her type was already well represented by the Weasley’s. She also applied to Durmstrang Institute, but was dismissed to to her lack of burliness and well manliness not to mention being muggle born. That left Beauxbatons Academy of Magic, who told her that due to her red hair they could not accept her, though she matched their other requirements . With this news she concluded that she would have to explore magic elsewhere. So, Kelly Fidler decided to leave her home in Pine Grove, PA (according to Google, it exists), and join us at RIT. She uses her magic to supply us with exceptional saxophone music for the pep band, and of course, the sexy hockey players. Kelly believes these RIT hockey players are magical warriors in training. She can be seen at hockey games attempting to communicate to each player through the magic of her saxophone. Contrary to the popular belief, she cannot play the fiddle.
-Kelly is also an avid sports fan when not practicing magic. Although usually found on a volleyball or basketball court, Kelly is also a closet racquetball player, and hopes to turn pro shortly after graduation. Even though she is magical, she doesn’t play quidditch, as she finds it to be too flaunting and dangerous. However, she does race griffins and hunts dragons for fun, and exercises to keep her skills sharp.
+She was rejected from Hogwarts, because they said her type was already well represented by the Weasley's. She also applied to Durmstrang Institute, but was dismissed to to her lack of burliness and well manliness not to mention being muggle born. That left Beauxbatons Academy of Magic, who told her that due to her red hair they could not accept her, though she matched their other requirements . With this news she concluded that she would have to explore magic elsewhere. So, Kelly Fidler decided to leave her home in Pine Grove, PA (according to Google, it exists), and join us at RIT. She uses her magic to supply us with exceptional saxophone music for the pep band, and of course, the sexy hockey players. Kelly believes these RIT hockey players are magical warriors in training. She can be seen at hockey games attempting to communicate to each player through the magic of her saxophone. Contrary to the popular belief, she cannot play the fiddle.
+Kelly is also an avid sports fan when not practicing magic. Although usually found on a volleyball or basketball court, Kelly is also a closet racquetball player, and hopes to turn pro shortly after graduation. Even though she is magical, she doesn't play quidditch, as she finds it to be too flaunting and dangerous. However, she does race griffins and hunts dragons for fun, and exercises to keep her skills sharp.
 
 ***
 
@@ -109,10 +109,10 @@ Minor: Law and Finance
 Instrument: Alto Saxophone  
 Hometown: Spencerport, NY  
   
-No matter the comical effect that happens when you see Dave with an alto saxophone, don’t dare
+No matter the comical effect that happens when you see Dave with an alto saxophone, don't dare
 ask if he plays Basketball. Yes, he is tall, but he is definitely all about music. A musician through and
 through, he has been playing the saxophone for 11 years. Jazz, Rock, Classical and of course Pep are
-on Dave’s hit list. That’s right, a hit list, because Dave belongs to the Secret Society of Assassins (SSA).
+on Dave's hit list. That's right, a hit list, because Dave belongs to the Secret Society of Assassins (SSA).
 These assassins investigate their targets and try to find each resonant frequency of the different organs.
 Using this frequency, musical notes can be played that cause the organs to vibrate and eventually
 explode, making it look like the victims spontaneously combusted. He has a lot of practice after years of
