@@ -1,7 +1,7 @@
 #E-Board 2011
 
 ## President | Gabi Potts
-<img class='right' src='images/Gabi.jpeg'/>
+<img class='right' src='images/eboard/2011/gabi.jpg'/>
 Year: 3  
 Major: Industrial Design  
 Instrument: Tenor Saxophone  
@@ -12,6 +12,7 @@ Gabi hopes to one day combine the knowledge gained from her major with her love 
 ---
   
 ## Vice President | Kelly Fidler
+<img class='right' src='images/eboard/2011/kelly.jpg'/>
 Year: 2  
 Major: Hospitality and Service Managment  
 Minor: Music  
