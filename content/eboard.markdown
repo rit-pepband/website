@@ -1,3 +1,7 @@
+---
+title: E-Board 2011
+---
+
 #E-Board 2011
 
 ## Conductor | Jimmy McNatt  
