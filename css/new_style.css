@@ -147,6 +147,14 @@ body {
 
 #content img {
     max-width: 100%;
+    margin: 5px 0 10px 10px;
+
+    /*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+    -moz-box-shadow: 0px 2px 7px #000000;
+    -webkit-box-shadow: 0px 2px 7px #000000;
+    box-shadow: 0px 2px 7px #000000;
+    /*IE 7 AND 8 DO NOT SUPPORT BLUR PROPERTY OF SHADOWS*/
+
 }
 
 
