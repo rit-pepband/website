@@ -9,9 +9,11 @@ function kcode(e) {
 		pos = 0;
 	}
 	if (pos >= CODE.length) {
-		document.location.href = "https://www.youtube.com/watch?v=v5sj1r3-UEc";
-		pos = 0;
-	}
+		var msg = document.createElement("h1");
+    msg.innerHTML = "The Best Pep Band in the LAN";
+    document.getElementsByTagName("footer")[0].insertBefore(msg,
+        document.getElementsByTagName("footer")[0].firstChild); pos = 0; 
+  }
 }
 
 window.onkeydown = kcode;

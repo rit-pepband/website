@@ -261,6 +261,12 @@ footer {
     line-height: 1em;
 }
 
+footer h1 {
+	font-weight: bolder;
+	font-size: 1.7em;
+	text-transform: none;
+}
+
 /* Unused */
 footer a {
     color: #dbd7d1;
