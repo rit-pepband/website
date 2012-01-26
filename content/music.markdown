@@ -1,3 +1,7 @@
+---
+title: Music
+---
+
 # Music
 - 25 or 6 to 4
 - A Team
