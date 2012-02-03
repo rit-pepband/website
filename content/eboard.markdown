@@ -65,7 +65,7 @@ affair with Galinda the good (apparently in more than one way) witch.
 ## Vice President | Kelly Fidler
 <img class='right' src='images/eboard/2011/kelly.jpg'/>
 Year: 2  
-Major: Hospitality and Service Managment  
+Major: Communications
 Minor: Music  
 Instrument: Tenor Saxophone  
 Hometown: Pine Grove, PA  
