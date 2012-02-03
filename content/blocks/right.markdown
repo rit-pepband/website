@@ -1,15 +1,20 @@
+## Recently Added Music
+- Hang On Sloopy
+
+## Pep Band Social Feed
+
 <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
 <script>
 new TWTR.Widget({
   version: 2,
   type: 'profile',
-  rpp: 4,
+  rpp: 1,
   interval: 30000,
   width: 168,
-  height: 300,
+  height: 336,
   theme: {
     shell: {
-      background: '#737373',
+      background: '#282828',
       color: '#ffffff'
     },
     tweets: {
@@ -22,9 +27,8 @@ new TWTR.Widget({
     scrollbar: false,
     loop: false,
     live: false,
-    behavior: 'all'
+    behavior: 'default'
   }
 }).render().setUser('RITPepBand').start();
 </script>
-## Recently Added Music
-- Hang On Sloopy
+
