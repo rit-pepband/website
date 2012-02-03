@@ -318,3 +318,21 @@ table{
   background: url(../images/menuhover.png);
   color: black;
 }
+
+/** Twitter Stuff **/
+.twtr-hd {
+  display: none;
+}
+.twtr-ft {
+  display: none;
+}
+.twtr-tweet-text a{
+  text-decoration: none;
+  border: none;
+}
+
+.twtr-user {
+  font-size: 1.3em;
+  display: block;
+  font-weight: bolder;
+}
