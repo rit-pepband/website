@@ -14,7 +14,17 @@ function render($name){
 
     $source= ($fammel->render());
     
-    $raw_content = file_get_contents('content/' . $name . '.markdown');
+	$raw_content = file_get_contents('content/' . $name . '.markdown');		
+	/* Handling History is a Special Case */
+	if ($name == 'history') {
+	  $year = $_GET['year']; /* Year is the LAST year (class of YEAR) */
+
+	  /* If no year, grab history index */
+	  $year = "index";
+	  
+	  $raw_content = file_get_contents('content/history/' . $year . '.markdown');
+	}
+
     $cleaned = preg_replace("/---.*---/sm", "", $raw_content, 1);
     $content = Markdown($cleaned);
     
