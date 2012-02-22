@@ -14,17 +14,17 @@ function render($name){
 
     $source= ($fammel->render());
     
-	$raw_content = file_get_contents('content/' . $name . '.markdown');		
-	/* Handling History is a Special Case */
-	if ($name == 'history') {
-	  $year = $_GET['year']; /* Year is the LAST year (class of YEAR) */
+    $raw_content = file_get_contents('content/' . $name . '.markdown');     
+    /* Handling History is a Special Case */
+    if ($name == 'history') {
+      $year = $_GET['year']; /* Year is the LAST year (class of YEAR) */
 
-	  /* If no year, grab history index */
-	  if ($year == '') {
+      /* If no year, grab history index */
+      if ($year == '') {
         $year = 'index';
-	  }
-	  $raw_content = file_get_contents('content/history/' . $year . '.markdown');
-	}
+      }
+      $raw_content = file_get_contents('content/history/' . $year . '.markdown');
+    }
 
     $cleaned = preg_replace("/---.*---/sm", "", $raw_content, 1);
     $content = Markdown($cleaned);
@@ -53,4 +53,24 @@ function render($name){
     $source = str_replace("[right]",$right,$source);
     echo $source;
 }
+
+
+/**
+ *
+ * renderHistory - Renders a history page
+ *
+ * Since history is a special case, use this helper function to render it.
+ *
+ * Returns the content of the history page
+ */
+function renderHistory() {
+    $year = $_GET['year'];
+    $hist_file = '';
+    if ($year == '') {
+        $year = 'index';
+    }
+    $raw_file = file_get_contents('content/history/' . $year . '.markdown');
+
+}
+
 ?>
