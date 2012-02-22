@@ -1,4 +1,4 @@
-#Pep Band History: 2011-2012
+#Pep Band History
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt sagittis
 pulvinar. Vestibulum id facilisis tellus. Phasellus lobortis placerat arcu,
