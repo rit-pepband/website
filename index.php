@@ -20,8 +20,9 @@ function render($name){
 	  $year = $_GET['year']; /* Year is the LAST year (class of YEAR) */
 
 	  /* If no year, grab history index */
-	  $year = "index";
-	  
+	  if ($year == '') {
+        $year = 'index';
+	  }
 	  $raw_content = file_get_contents('content/history/' . $year . '.markdown');
 	}
 
