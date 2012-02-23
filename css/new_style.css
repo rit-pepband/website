@@ -336,3 +336,12 @@ table{
   display: block;
   font-weight: bolder;
 }
+
+#hist-nav {
+  background: #dbd7d1;
+  margin-bottom: 15px;
+}
+
+#hist-nav a {
+  color: #CE7014; 
+}
