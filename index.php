@@ -21,7 +21,12 @@ function render($name){
     /* Handling History is a Special Case */
     if ($name == 'history') {
 		$content = renderHistory();
-		$title = "History: " . (intval($_GET['year']) - 1) . " - " . $_GET['year'];
+		if ($_GET['year'] != "") {
+			$title = "History: " . (intval($_GET['year']) - 1) . " - " . $_GET['year'];
+		}
+		else {
+			$title = "History";
+		}
 	}
 	else {
 	    $raw_content = file_get_contents('content/' . $name . '.markdown');     
