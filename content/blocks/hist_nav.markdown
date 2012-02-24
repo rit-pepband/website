@@ -1,4 +1,3 @@
-* [General Information](/history)
 * [2006 - 2007](/history/2007)
 * [2007 - 2008](/history/2008)
 * [2008 - 2009](/history/2009)
