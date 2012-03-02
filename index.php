@@ -22,7 +22,7 @@ function render($name){
     if ($name == 'history') {
 		$content = renderHistory();
 		if ($_GET['year'] != "") {
-			$title = "History: " . (intval($_GET['year']) - 1) . " - " . $_GET['year'];
+			$title = "History: " . $_GET['year'] . " - " . (intval($_GET['year']) + 1);
 		}
 		else {
 			$title = "History";
