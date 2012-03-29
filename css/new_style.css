@@ -338,10 +338,14 @@ table{
 }
 
 #hist-nav {
-  background: #dbd7d1;
+  background: none;
   margin-bottom: 15px;
+  text-align: center;
 }
 
 #hist-nav a {
   color: #CE7014; 
+  float: none;
+  display: inline;
+  margin: 2px;
 }
