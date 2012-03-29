@@ -349,3 +349,8 @@ table{
   display: inline;
   margin: 2px;
 }
+
+#hist-nav a:hover {
+ font-weight: bold;
+ background: none;
+}
