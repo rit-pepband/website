@@ -1,4 +1,5 @@
 Options +FollowSymLinks
 RewriteEngine On
 
+RewriteRule ^([A-Za-z]+)/([0-9][0-9][0-9][0-9])$ index.php?page=$1&year=$2
 RewriteRule ^([A-Za-z]+)$ index.php?page=$1
