@@ -336,3 +336,21 @@ table{
   display: block;
   font-weight: bolder;
 }
+
+#hist-nav {
+  background: none;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+#hist-nav a {
+  color: #CE7014; 
+  float: none;
+  display: inline;
+  margin: 2px;
+}
+
+#hist-nav a:hover {
+ font-weight: bold;
+ background: none;
+}
