@@ -1,4 +1,4 @@
-- [Home](/)
-- [Music](/music)
-- [E-Board](/eboard)
-- [History](/history)
+- [Home](./)
+- [Music](./music)
+- [E-Board](./eboard)
+- [History](./history)
