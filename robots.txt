@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /.lib/ /.git/ /layout/
+Disallow: /.lib/ /layout/
