@@ -23,6 +23,7 @@ __Conductor__: Derek Erdmann
 * 25 or 6 to 4
 * 99 Red Balloons
 * A Team
+* All Start
 * Beat It
 * Brick House
 * Can't Turn You Loose
