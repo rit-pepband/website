@@ -1,37 +1,27 @@
 ---
-title: E-Board 2012
+title: E-Board 2013
 ---
 
-#E-Board 2012
+#E-Board 2013
 
-## President | Gabi Potts
-<!-- img class='right' src='images/eboard/2012/gabi.jpg'/ --> 
-
-******
-
-## Conductor | Jimmy McNatt
-<!-- img class='right' src='images/eboard/2012/jimmy.jpg'/ -->
+## President | Teryn Rynone
 
 ******
 
-## Vice President | Brian Besmanoff
-<!-- img class='right' src='images/eboard/2012/brian.jpg'/ -->
+## Conductor | Andrew Hitchner
 
 ******
 
-## Vice President | Lori Liebman
-<!-- img class='right' src='images/eboard/2012/lori.jpg'/ -->
+## Vice President | Sarah Kearns
+
+******
+
+## Vice President | Mike Ploch
 
 ******
 
 ## Secretary | Kaity Moranz
-<!-- img class='right' src='images/eboard/2012/kaity.jpg'/ -->
 
 ******
 
-## Treasurer | Teryn Rynone
-<!-- img class='right' src='images/eboard/2012/teryn.jpg'/ -->
-
-******
-
-_More information about the E-Board is coming soon_
+## Treasurer | Neil Guetrin
