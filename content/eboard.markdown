@@ -1,27 +1,27 @@
 ---
-title: E-Board 2013
+title: E-Board 2014 - 2015
 ---
 
-#E-Board 2013
+#E-Board 2014 - 2015
 
-## President | Teryn Rynone
-
-******
-
-## Conductor | Andrew Hitchner
+## President | Neil Guertin
 
 ******
 
-## Vice President | Sarah Kearns
+## Conductor | Tyler Kiddle
 
 ******
 
-## Vice President | Mike Ploch
+## Vice President | Brian Besmanoff
 
 ******
 
-## Secretary | Kaity Moranz
+## Vice President | Zach Hankinson
 
 ******
 
-## Treasurer | Neil Guetrin
+## Secretary | Dan Consolazio
+
+******
+
+## Treasurer | Jon Theismann
