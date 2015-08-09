@@ -1,6 +1,3 @@
-## Recently Added Music
-- Hang On Sloopy
-
 ## Pep Band Social Feed
 
 <a class="twitter-timeline" data-dnt="true"
