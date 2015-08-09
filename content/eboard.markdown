@@ -1,27 +1,27 @@
 ---
-title: E-Board 2014 - 2015
+title: E-Board 2015 - 2016
 ---
 
-#E-Board 2014 - 2015
+#E-Board 2015 - 2016
 
-## President | Neil Guertin
-
-******
-
-## Conductor | Tyler Kiddle
+## President | Brian Besmanoff
 
 ******
 
-## Vice President | Brian Besmanoff
+## Conductor | Ryan Hinkley
 
 ******
 
-## Vice President | Zach Hankinson
+## Vice President | Jon Theismann
 
 ******
 
-## Secretary | Dan Consolazio
+## Vice President | Stephen Silkey
 
 ******
 
-## Treasurer | Jon Theismann
+## Secretary | Emily O'Connor
+
+******
+
+## Treasurer | Elise Walsh
