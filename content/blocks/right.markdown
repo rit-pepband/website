@@ -3,32 +3,8 @@
 
 ## Pep Band Social Feed
 
-<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
-<script>
-new TWTR.Widget({
-  version: 2,
-  type: 'profile',
-  rpp: 1,
-  interval: 30000,
-  width: 168,
-  height: 336,
-  theme: {
-    shell: {
-      background: '#282828',
-      color: '#ffffff'
-    },
-    tweets: {
-      background: '#282828',
-      color: '#ffffff',
-      links: '#fec24a'
-    }
-  },
-  features: {
-    scrollbar: false,
-    loop: false,
-    live: false,
-    behavior: 'default'
-  }
-}).render().setUser('RITPepBand').start();
-</script>
-
+<a class="twitter-timeline" data-dnt="true"
+href="https://twitter.com/RITPepBand" data-widget-id="628793318130843649">Tweets
+by @RITPepBand</a>
+<script>!function(d,s,id){var
+js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
