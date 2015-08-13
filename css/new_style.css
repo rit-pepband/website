@@ -319,24 +319,12 @@ table{
   color: black;
 }
 
-/** Twitter Stuff **/
-.twtr-hd {
-  display: none;
-}
-.twtr-ft {
-  display: none;
-}
-.twtr-tweet-text a{
-  text-decoration: none;
-  border: none;
+/** Twitter Stuff */
+.twitter-timeline {
+  height: 300px;
 }
 
-.twtr-user {
-  font-size: 1.3em;
-  display: block;
-  font-weight: bolder;
-}
-
+/** History Stuff */
 #hist-nav {
   background: none;
   margin-bottom: 15px;
