@@ -5,7 +5,8 @@ title: #PepBandJukeBox Twitter Voting
 You can vote on songs by tweeting __@RITPepBand__ with the hashtag __#PepBandJukeBox__ or by clicking the button:
 
 <a class="twitter-hashtag-button"
-  href="https://twitter.com/intent/tweet?button_hashtag=PepBandJukeBox&text=@RITPepBand">
+  href="https://twitter.com/intent/tweet?button_hashtag=PepBandJukeBox&via=RITPepBand"
+  data-size="large">
 Tweet #PepBandJukeBox</a>
 
 ## List Of Songs
